@@ -1,4 +1,4 @@
-# Spark Streaming with Python in 12 minutes
+# Spark Streaming with Python
 
 [Spark streaming notes](https://www.notion.so/Spark-streaming-notes-8154392e349d40069a0308f5cae7cb1e)
 
